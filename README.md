@@ -4,7 +4,7 @@ Projekat iz predmeta Socijalne Mreže.\
 
 Zadatak: Implementacija Batagelj-Zaverštnik algoritma za dekompoziciju mreže na K-jezgra, Erdos-Renyi, Barabasi-Albert i Jezgro-Periferija modela.\
 Izraćunati metrike centralnosti (ugnježdenost, centralnost i eignevector) za globalnu mrežu.\
-Izračunati globalne metrike za celu mrežu i svako K-jezgro: Koeficijent klasterisanja, koeficijent malog sveta, indeks asortativnosti...\
+Izračunati globalne metrike za celu mrežu i svako K-jezgro: Koeficijent klasterisanja, koeficijent malog sveta, indeks asortativnosti...
 
 JDK verzija: 19\
 VM parametar: -Xmx32768m (dodeljivanje RAM memorije po potrebi)\
